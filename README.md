@@ -1,1 +1,1 @@
-# purposal
+# propose
